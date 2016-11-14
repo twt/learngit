@@ -1,4 +1,4 @@
 git is a distributed version control systemm
-git is free software
+git is free software  distributed under the GPL.
 
 
